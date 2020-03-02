@@ -1,0 +1,18 @@
+name: session-12
+channels:
+  - conda-forge
+  - bioconda
+  - eaton-lab
+
+dependencies:
+  - python
+  - requests
+  - pandas
+  - numpy
+  - toytree
+  - muscle
+  - matplotlib
+  - raxml
+  - gblocks
+  - ipcoal
+  #  - sra-tools
